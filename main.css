@@ -1,0 +1,36 @@
+h1 {
+    color: green;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: green 2px 3px 4px;
+}
+
+h2 {
+    color: green;
+    font-style: italic;
+    text-shadow: green 2px 3px 4px;
+}
+
+#a1,
+#a2 {
+    margin-top: 20px;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
+
+#b1,
+#b2,
+#b3,
+#b4,
+#b5,
+#b6,
+#b7 {
+    margin-top: 10px;
+}
+
+a:hover {
+    color: red;
+}
+
